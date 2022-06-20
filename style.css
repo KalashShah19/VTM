@@ -1,0 +1,192 @@
+html
+{
+   scroll-behavior: smooth;
+}
+.tab
+{
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 10px; 
+    font-size: x-large;
+}
+.tabl
+{
+    padding: 10px; 
+    font-size: x-large;
+}
+.tabph
+{
+    border: 2px solid white;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: x-large;
+}
+.tabp
+{
+    border: 1px solid white;
+    border-collapse: collapse;
+    font-size: x-large;
+}
+.tabc
+{
+    font-size: xx-large;
+    padding: 10px;
+}
+.tabr
+{
+    /*border: 1px solid white;*/
+    width: 100px;
+}
+#headeri
+{
+    padding-top: 25px;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+}
+#footeri
+{
+    text-align:center;  
+}
+#maini
+{
+    padding-top: 50px;
+    width: 100%;
+}
+#img
+{
+    padding-top: 35px;
+    width: 100%;
+    height: 500px;
+}
+a:link 
+{
+    color: cyan;
+    background-color: transparent;
+    text-decoration: none;
+} 
+a:visited
+{
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}  
+a:hover 
+{
+    color: lightgreen;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active 
+{
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+#headreg
+{
+    padding-left:280px;
+}
+#reg
+{
+    padding-left:280px;
+}
+.mainlog
+{
+	padding-left: 350px;
+	padding-top: 10px; 
+}
+.headlog
+{
+	padding-left: 350px;
+}
+#headp
+{
+    text-align: center;
+	padding-top: 10px;
+	height: 100px;
+	width: 100%;
+}
+#mainp
+{
+	padding-top: 100px;
+	height: 500px;
+	width: 100%;
+}
+#headpy
+{
+    text-align: center;
+	padding-top: 10px;
+	height: 100px;
+	width: 100%;
+}
+#mainpy
+{
+    padding-left: 500px;
+	padding-top: 100px;
+	height: 500px;
+	width: 100%;
+}
+#mainlog
+{
+    padding-left: 500px;
+    padding-top: 100px;
+}
+#headlog
+{
+    height: 90px;
+	padding-left: 250px;
+}
+table,th,td,tr
+{
+	text-align:left;
+	
+}
+#headf
+{
+	text-align: center;
+}
+#mainf
+{
+	padding-top: 50px;
+}
+#mainc
+{
+	padding-left: 450px;
+	padding-top: 100px;
+}
+#headc
+{
+    padding-top: 25px;
+	text-align: center;
+    padding-bottom: 10px;
+}
+#heada
+{
+    padding-top: 1%;
+    text-align: center;
+}
+#maina
+{
+    padding-top: 2%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+div.scrollmenu {
+    background-color: black;
+    cursor: grab;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scrollmenu a 
+{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+div.scrollmenu a:hover 
+{
+    background-color: aqua;
+}
